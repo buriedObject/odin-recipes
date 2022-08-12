@@ -16,3 +16,7 @@ h3 {
 .desc {
     font-style: italic;
 }
+
+h1 {
+    text-decoration: underline;
+}
